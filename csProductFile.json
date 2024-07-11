@@ -23,7 +23,7 @@
   },
   {
     "Id": "000003",
-    "Brand": "Nike"
+    "Brand": "Nike",
     "ProductName": "Nike Flex",
     "GraphicName": "flex.jpg",
     "CostPrice": 70.00,
