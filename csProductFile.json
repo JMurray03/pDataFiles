@@ -1,7 +1,7 @@
 [
   {
     "Id": "000001",
-    "BrandId": 1,
+    "Brand": "Nike",
     "ProductName": "Nike Air Max",
     "GraphicName": "air_max.jpg",
     "CostPrice": 120.00,
@@ -12,7 +12,7 @@
   },
   {
     "Id": "000002",
-    "BrandId": 1,
+    "Brand": "Nike",
     "ProductName": "Nike Revolution",
     "GraphicName": "revolution.jpg",
     "CostPrice": 60.00,
@@ -23,7 +23,7 @@
   },
   {
     "Id": "000003",
-    "BrandId": 1,
+    "Brand": "Nike"
     "ProductName": "Nike Flex",
     "GraphicName": "flex.jpg",
     "CostPrice": 70.00,
@@ -34,7 +34,7 @@
   },
   {
     "Id": "000004",
-    "BrandId": 1,
+    "Brand": "Nike",
     "ProductName": "Nike Free",
     "GraphicName": "free.jpg",
     "CostPrice": 100.00,
@@ -45,7 +45,7 @@
   },
   {
     "Id": "000005",
-    "BrandId": 1,
+    "Brand": "Nike",
     "ProductName": "Nike React",
     "GraphicName": "react.jpg",
     "CostPrice": 110.00,
@@ -56,7 +56,7 @@
   },
   {
     "Id": "000006",
-    "BrandId": 2,
+    "Brand": "Adidas",
     "ProductName": "Adidas Ultraboost",
     "GraphicName": "ultraboost.jpg",
     "CostPrice": 130.00,
@@ -67,7 +67,6 @@
   },
   {
     "Id": "000007",
-    "BrandId": 2,
     "ProductName": "Adidas NMD",
     "GraphicName": "nmd.jpg",
     "CostPrice": 100.00,
@@ -78,7 +77,7 @@
   },
   {
     "Id": "000008",
-    "BrandId": 2,
+    "Brand": "Adidas",
     "ProductName": "Adidas Superstar",
     "GraphicName": "superstar.jpg",
     "CostPrice": 70.00,
@@ -89,7 +88,7 @@
   },
   {
     "Id": "000009",
-    "BrandId": 2,
+    "Brand": "Adidas",
     "ProductName": "Adidas Stan Smith",
     "GraphicName": "stan_smith.jpg",
     "CostPrice": 65.00,
@@ -100,7 +99,7 @@
   },
   {
     "Id": "000010",
-    "BrandId": 2,
+    "Brand": "Adidas",
     "ProductName": "Adidas Gazelle",
     "GraphicName": "gazelle.jpg",
     "CostPrice": 80.00,
@@ -111,7 +110,7 @@
   },
   {
     "Id": "000011",
-    "BrandId": 3,
+    "Brand": "New Balance",
     "ProductName": "New Balance 990v5",
     "GraphicName": "990v5.jpg",
     "CostPrice": 175.00,
@@ -122,7 +121,7 @@
   },
   {
     "Id": "000012",
-    "BrandId": 3,
+    "Brand": "New Balance",
     "ProductName": "New Balance Fresh Foam 1080v10",
     "GraphicName": "1080v10.jpg",
     "CostPrice": 150.00,
@@ -133,7 +132,7 @@
   },
   {
     "Id": "000013",
-    "BrandId": 3,
+    "Brand": "New Balance",
     "ProductName": "New Balance 574",
     "GraphicName": "574.jpg",
     "CostPrice": 80.00,
@@ -144,7 +143,7 @@
   },
   {
     "Id": "000014",
-    "BrandId": 3,
+    "Brand": "New Balance",
     "ProductName": "New Balance FuelCell Propel",
     "GraphicName": "propel.jpg",
     "CostPrice": 110.00,
@@ -155,7 +154,7 @@
   },
   {
     "Id": "000015",
-    "BrandId": 3,
+    "Brand": "New Balance",
     "ProductName": "New Balance 860v10",
     "GraphicName": "860v10.jpg",
     "CostPrice": 125.00,
