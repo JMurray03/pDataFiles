@@ -67,6 +67,7 @@
   },
   {
     "Id": "000007",
+    "Brand": "Adidas",
     "ProductName": "Adidas NMD",
     "GraphicName": "nmd.jpg",
     "CostPrice": 100.00,
