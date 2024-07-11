@@ -1,0 +1,167 @@
+[
+  {
+    "Id": "000001",
+    "BrandId": 1,
+    "ProductName": "Nike Air Max",
+    "GraphicName": "air_max.jpg",
+    "CostPrice": 120.00,
+    "MSRP": 150.00,
+    "QtyOnHand": 50,
+    "QtyOnBackOrder": 10,
+    "Description": "The Nike Air Max is a line of shoes produced by Nike, Inc., with the first model released in 1987."
+  },
+  {
+    "Id": "000002",
+    "BrandId": 1,
+    "ProductName": "Nike Revolution",
+    "GraphicName": "revolution.jpg",
+    "CostPrice": 60.00,
+    "MSRP": 80.00,
+    "QtyOnHand": 40,
+    "QtyOnBackOrder": 15,
+    "Description": "The Nike Revolution is designed for running and casual wear with lightweight construction."
+  },
+  {
+    "Id": "000003",
+    "BrandId": 1,
+    "ProductName": "Nike Flex",
+    "GraphicName": "flex.jpg",
+    "CostPrice": 70.00,
+    "MSRP": 90.00,
+    "QtyOnHand": 30,
+    "QtyOnBackOrder": 5,
+    "Description": "Nike Flex provides flexibility and support for various athletic activities."
+  },
+  {
+    "Id": "000004",
+    "BrandId": 1,
+    "ProductName": "Nike Free",
+    "GraphicName": "free.jpg",
+    "CostPrice": 100.00,
+    "MSRP": 130.00,
+    "QtyOnHand": 60,
+    "QtyOnBackOrder": 12,
+    "Description": "Nike Free is designed to mimic the feeling of barefoot running with a flexible sole."
+  },
+  {
+    "Id": "000005",
+    "BrandId": 1,
+    "ProductName": "Nike React",
+    "GraphicName": "react.jpg",
+    "CostPrice": 110.00,
+    "MSRP": 140.00,
+    "QtyOnHand": 70,
+    "QtyOnBackOrder": 8,
+    "Description": "Nike React features a unique foam cushioning system for comfort and performance."
+  },
+  {
+    "Id": "000006",
+    "BrandId": 2,
+    "ProductName": "Adidas Ultraboost",
+    "GraphicName": "ultraboost.jpg",
+    "CostPrice": 130.00,
+    "MSRP": 180.00,
+    "QtyOnHand": 55,
+    "QtyOnBackOrder": 10,
+    "Description": "Adidas Ultraboost is known for its comfort and energy return with a Boost midsole."
+  },
+  {
+    "Id": "000007",
+    "BrandId": 2,
+    "ProductName": "Adidas NMD",
+    "GraphicName": "nmd.jpg",
+    "CostPrice": 100.00,
+    "MSRP": 140.00,
+    "QtyOnHand": 45,
+    "QtyOnBackOrder": 15,
+    "Description": "Adidas NMD combines retro elements with modern technology for a unique look and feel."
+  },
+  {
+    "Id": "000008",
+    "BrandId": 2,
+    "ProductName": "Adidas Superstar",
+    "GraphicName": "superstar.jpg",
+    "CostPrice": 70.00,
+    "MSRP": 100.00,
+    "QtyOnHand": 60,
+    "QtyOnBackOrder": 5,
+    "Description": "Adidas Superstar is a classic sneaker known for its iconic shell toe design."
+  },
+  {
+    "Id": "000009",
+    "BrandId": 2,
+    "ProductName": "Adidas Stan Smith",
+    "GraphicName": "stan_smith.jpg",
+    "CostPrice": 65.00,
+    "MSRP": 95.00,
+    "QtyOnHand": 50,
+    "QtyOnBackOrder": 12,
+    "Description": "Adidas Stan Smith is a timeless tennis shoe with a simple and clean design."
+  },
+  {
+    "Id": "000010",
+    "BrandId": 2,
+    "ProductName": "Adidas Gazelle",
+    "GraphicName": "gazelle.jpg",
+    "CostPrice": 80.00,
+    "MSRP": 110.00,
+    "QtyOnHand": 40,
+    "QtyOnBackOrder": 20,
+    "Description": "Adidas Gazelle is a versatile shoe that can be worn for various activities."
+  },
+  {
+    "Id": "000011",
+    "BrandId": 3,
+    "ProductName": "New Balance 990v5",
+    "GraphicName": "990v5.jpg",
+    "CostPrice": 175.00,
+    "MSRP": 200.00,
+    "QtyOnHand": 35,
+    "QtyOnBackOrder": 8,
+    "Description": "New Balance 990v5 is a premium running shoe with excellent support and cushioning."
+  },
+  {
+    "Id": "000012",
+    "BrandId": 3,
+    "ProductName": "New Balance Fresh Foam 1080v10",
+    "GraphicName": "1080v10.jpg",
+    "CostPrice": 150.00,
+    "MSRP": 180.00,
+    "QtyOnHand": 25,
+    "QtyOnBackOrder": 10,
+    "Description": "New Balance Fresh Foam 1080v10 offers maximum comfort with Fresh Foam technology."
+  },
+  {
+    "Id": "000013",
+    "BrandId": 3,
+    "ProductName": "New Balance 574",
+    "GraphicName": "574.jpg",
+    "CostPrice": 80.00,
+    "MSRP": 100.00,
+    "QtyOnHand": 40,
+    "QtyOnBackOrder": 5,
+    "Description": "New Balance 574 is a classic sneaker known for its style and versatility."
+  },
+  {
+    "Id": "000014",
+    "BrandId": 3,
+    "ProductName": "New Balance FuelCell Propel",
+    "GraphicName": "propel.jpg",
+    "CostPrice": 110.00,
+    "MSRP": 130.00,
+    "QtyOnHand": 30,
+    "QtyOnBackOrder": 15,
+    "Description": "New Balance FuelCell Propel is designed for speed with FuelCell cushioning."
+  },
+  {
+    "Id": "000015",
+    "BrandId": 3,
+    "ProductName": "New Balance 860v10",
+    "GraphicName": "860v10.jpg",
+    "CostPrice": 125.00,
+    "MSRP": 150.00,
+    "QtyOnHand": 45,
+    "QtyOnBackOrder": 12,
+    "Description": "New Balance 860v10 provides stability and support for long-distance running."
+  }
+]
